@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.eggs
+*.env
+.env*
+venv/
+ENV/
+env/
+*.envrc
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+test-results/
+
+# Others
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore secrets
+secrets.json
