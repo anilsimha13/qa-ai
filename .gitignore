@@ -49,3 +49,5 @@ test-results/
 
 # Ignore secrets
 secrets.json
+
+secrets.txt

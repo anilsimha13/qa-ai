@@ -52,6 +52,17 @@
         - Install ```pip install -U "autogen-agentchat"```
         - Install ``` pip install "autogen-ext[openai]"```
         - Install ```pip install -U "autogen-ext[mcp]"```
+        - Make sure you have a credits on your OPEN-AI account
+        - ```OpenAIChatCompletionClient```
+        - ```AssistantAgent```
+        - ```RoundRobinGroupChat```
+        - ```run_stream```
+        - ``` UserProxyAgent```
+        - ```save_state()```
+        - ```SelectorGroupChat```
+        - ```MultimodalWebSurfer```
+        - ```StdioServerParams```
+        - ```McpWorkbench```
 
 
 | Traditional AI       | Agentic AI           |
